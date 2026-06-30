@@ -184,4 +184,3 @@ Flutter application featuring authentication, AI assistant integration and respo
 <p align="center">
 ⭐ Thanks for visiting my GitHub profile!
 </p>
-""")
