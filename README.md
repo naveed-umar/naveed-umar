@@ -1,76 +1,107 @@
-<!-- ========================================= -->
-<!--               HERO BANNER                -->
-<!-- ========================================= -->
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="./banner.png" alt="Naveed Umar Banner" width="100%" />
+  <img src="./assets/banner.png" width="100%" alt="Naveed Umar Banner"/>
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;React+%7C+Next.js+%7C+Flutter+Developer;Building+Modern+Digital+Products;AI+Powered+Web+Applications;Open+to+Remote+Opportunities"/>
+
 </p>
 
 <h1 align="center">
-  Hi 👋 I'm <strong>Naveed Umar</strong>
+Hi 👋, I'm Naveed Umar
 </h1>
 
 <h3 align="center">
-Software Engineer • Frontend Developer • Mobile App Developer • AI Enthusiast
+Software Engineer passionate about building scalable web applications, AI-powered products and exceptional user experiences.
 </h3>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=4F8CFF&center=true&vCenter=true&width=850&lines=Building+Beautiful+Web+Experiences;React+%7C+Next.js+%7C+Flutter;Turning+Ideas+Into+Digital+Products;Always+Learning+Something+New" />
-
-</p>
-
----
+<br>
 
 <p align="center">
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://naveedumar.com">
+
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
 </a>
 
-<a href="https://linkedin.com/in/YOURUSERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;
+
+<a href="https://www.linkedin.com/in/naveed-umar-565abb27a/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+&nbsp;
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:naveedumar559@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
 
+<br>
+
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-I'm a software engineer passionate about creating modern, scalable and user-focused digital experiences.
+I'm a **Software Engineer** currently completing my Bachelor's in Software Engineering while building production-ready applications and working on real client projects.
 
-I enjoy transforming ideas into polished products by combining clean code, thoughtful UI/UX, and performance-driven development.
+I enjoy turning ideas into modern digital products through thoughtful design, clean architecture and scalable engineering.
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ### 🚀 What I Do
 
-- 🌐 Build responsive web applications using **React** & **Next.js**
-- 📱 Develop cross-platform mobile apps with **Flutter**
-- 🎨 Create clean, modern and intuitive UI/UX
-- ⚡ Optimize performance and user experience
-- 🤖 Explore AI-powered applications and automation
-- 📚 Continuously learn new technologies
+- Build modern React applications
+- Develop Next.js websites
+- Create Flutter mobile apps
+- Design clean user experiences
+- Integrate AI into real products
 
-### 💡 Current Focus
+</td>
 
-- Advanced React & Next.js
-- AI Integrations
-- System Design
-- Performance Optimization
-- Open Source Contributions
+<td width="50%">
+
+### 🎯 Currently
+
+- 🎓 Final Year Software Engineering Student
+- 💼 Software Engineer at BeyByte
+- 🌍 Open to Junior Remote Opportunities
+- 🤝 Available for collaboration
+- 📍 Pakistan (UTC +5)
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=0e75b6"/>
+> **"Building software that solves problems, creates value and delivers exceptional user experiences."**
 
 </p>
+
+<br>
