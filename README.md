@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Naveed Umar 👋
 
-<!--
-**naveed-umar/naveed-umar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | React • Next.js • Flutter Developer
 
-Here are some ideas to get you started:
+I build modern web applications, mobile apps, and AI-powered digital products with a focus on clean design, scalability, and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Open to Junior Remote Software Engineering Opportunities**
+
+---
+
+## 🚀 About Me
+
+🎓 Software Engineering Student at COMSATS University Islamabad
+
+💻 Passionate about building modern web applications and cross-platform mobile apps.
+
+🚀 Experienced working on real client projects and transforming ideas into digital products.
+
+🌱 Currently improving my skills in React, Next.js, Flutter, TypeScript, and AI-assisted development.
+
+🎯 My goal is to join a remote engineering team where I can continue learning while building products that solve real-world problems.
