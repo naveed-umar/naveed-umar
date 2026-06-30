@@ -1,25 +1,23 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                    HERO SECTION                        -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Naveed Umar Banner"/>
+  <img src="./banner.png" width="100%" alt="Naveed Umar Banner"/>
 </p>
 
 <br>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;React+%7C+Next.js+%7C+Flutter+Developer;Building+Modern+Digital+Products;AI+Powered+Web+Applications;Open+to+Remote+Opportunities"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;React+Developer;Next.js+Developer;Flutter+Developer;Building+Modern+Digital+Products;Open+to+Remote+Opportunities"/>
 </p>
 
 <h1 align="center">
-Hi 👋, I'm Naveed Umar
+Hi, I'm Naveed Umar 👋
 </h1>
 
 <h3 align="center">
-Software Engineer passionate about building scalable web applications, AI-powered products and exceptional user experiences.
+Software Engineer crafting modern web applications, mobile experiences and AI-powered digital products.
 </h3>
 
 <br>
@@ -27,66 +25,86 @@ Software Engineer passionate about building scalable web applications, AI-powere
 <p align="center">
 
 <a href="https://naveedumar.com">
-
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-&nbsp;
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/📄%20Resume-0F172A?style=for-the-badge"/>
+</a>
 
 <a href="https://www.linkedin.com/in/naveed-umar-565abb27a/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
-
 <a href="mailto:naveedumar559@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 <br>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=naveed-umar&label=Profile%20Views&color=2563EB&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/naveed-umar?label=Followers&style=flat-square"/>
+
+<img src="https://img.shields.io/github/stars/naveed-umar?affiliations=OWNER&style=flat-square"/>
+
+</p>
+
 ---
 
 # 👨‍💻 About Me
-
-I'm a **Software Engineer** currently completing my Bachelor's in Software Engineering while building production-ready applications and working on real client projects.
-
-I enjoy turning ideas into modern digital products through thoughtful design, clean architecture and scalable engineering.
-
-<br>
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🚀 What I Do
+I'm a **Software Engineer** passionate about building modern web applications, AI-powered solutions and intuitive digital experiences.
 
-- Build modern React applications
-- Develop Next.js websites
-- Create Flutter mobile apps
-- Design clean user experiences
-- Integrate AI into real products
+I enjoy transforming ideas into scalable software through thoughtful design, clean architecture and maintainable code.
+
+Currently completing my Bachelor's in **Software Engineering** while working on real-world client projects at **BeyByte**.
+
+### 💡 Developer Philosophy
+
+> Great software isn't just about writing code.
+>
+> It's about solving problems, creating value and building products people genuinely enjoy using.
 
 </td>
 
-<td width="50%">
+<td width="40%" valign="top">
 
-### 🎯 Currently
+```text
+Name
+Naveed Umar
 
-- 🎓 Final Year Software Engineering Student
-- 💼 Software Engineer at BeyByte
-- 🌍 Open to Junior Remote Opportunities
-- 🤝 Available for collaboration
-- 📍 Pakistan (UTC +5)
+Role
+Software Engineer
+
+Company
+BeyByte
+
+Education
+BS Software Engineering
+
+Focus
+React • Next.js • Flutter
+
+Status
+Open to Work
+
+Location
+Pakistan 🇵🇰
+
+Availability
+Remote
+```
 
 </td>
 
@@ -96,12 +114,10 @@ I enjoy turning ideas into modern digital products through thoughtful design, cl
 
 <br>
 
----
-
 <p align="center">
 
-> **"Building software that solves problems, creates value and delivers exceptional user experiences."**
+<img src="https://img.shields.io/badge/Open%20to%20Remote%20Roles-2563EB?style=for-the-badge"/>
 
 </p>
 
-<br>
+---
