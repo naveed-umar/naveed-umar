@@ -55,7 +55,7 @@ I'm currently completing my Bachelor's in Software Engineering while building pr
 
 ## Software Engineer — BeyByte
 
-- Built responsive business websites.
+- Delivered responsive business websites for international clients using React, Next.js and modern UI/UX practices.
 - Worked with real clients from discovery to delivery.
 - Collaborated on UI/UX, frontend development and project planning.
 - Focused on performance, accessibility and maintainability.
@@ -94,6 +94,15 @@ Agency website showcasing services, portfolio and digital solutions.
 
 Flutter application featuring authentication, AI assistant integration and responsive mobile UI.
 
+---
+## 💻 Currently Building
+
+| Project | Description | Status |
+|---------|-------------|:------:|
+| 🎨 **AI Design Audit Tool** | AI-powered website auditing platform with UI/UX analysis and actionable recommendations. | 🟢 Active |
+|🏥 **Edina Eye Clinic** | Clean business conversion website redesign, performance optimization. | 🟢 Active |
+| ⚖️ **Legal Services Platform** | Premium legal website focused on conversion, accessibility and client acquisition. | 🟢 Active |
+| 🌐 **Portfolio v2** | Next-generation portfolio with interactive case studies and modern animations. | 🚀 Improving |
 ---
 
 # 💻 What I'm Building
@@ -156,16 +165,6 @@ Flutter application featuring authentication, AI assistant integration and respo
 
 ---
 
-# 🎯 Currently Learning
-
-- Advanced React Patterns
-- Next.js App Router
-- Flutter Clean Architecture
-- Software System Design
-- AI-powered Web Applications
-- Cloud Deployment Workflows
-
----
 
 # 🤝 Let's Connect
 
