@@ -1,95 +1,89 @@
-<h1 align="center">Hi 👋, I'm Naveed Umar</h1>
+<p align="center">
+  <img src="./banner.png" alt="Naveed Umar Banner" width="100%">
+</p>
 
-<h3 align="center">Software Engineer | React • Next.js • Flutter Developer</h3>
+<h1 align="center">Hi 👋 I'm Naveed Umar</h1>
 
 <p align="center">
-I build modern web applications, cross-platform mobile apps, and AI-powered digital products with a focus on clean design, scalability, and user experience.
+Software Engineer • React • Next.js • Flutter • AI
 </p>
 
 <p align="center">
-🌍 <strong>Open to Junior Remote Software Engineering Opportunities</strong>
+Building scalable web applications and AI-powered digital products that solve real-world problems.
 </p>
 
 <p align="center">
-  <a href="https://naveedumar.com">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://naveedumar.com">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/naveed-umar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 Who I Am
 
-- 🎓 Software Engineering student at **COMSATS University Islamabad**
-- 💻 Passionate about building modern web applications and cross-platform mobile apps.
-- 🚀 Experienced working on real client projects through **BeyByte**.
-- 🌱 Currently improving my skills in **React, Next.js, Flutter, TypeScript, and AI-assisted development**.
-- 🤝 Interested in software engineering, product development, and technical project management.
-- 🎯 Looking for a **Junior Remote Software Engineer** role where I can contribute while continuing to learn.
+I'm a Software Engineering 8th semseter student passionate about building modern web applications, AI-powered products, and digital experiences.
+
+Instead of only writing code, I enjoy solving business problems through clean architecture, intuitive UI, and scalable solutions.
+
+Currently looking for a **Junior Remote Software Engineering** opportunity.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 My Toolbox
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,dart,html,css"/>
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
 
 ### Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,nodejs"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
 
 ---
 
 # 💼 Featured Projects
 
-## 🌐 Personal Portfolio
-
-Professional portfolio showcasing my software engineering projects, UI/UX work, and technical experience.
-
-🔗 https://naveedumar.com
-
----
-
-## 🏥 Edina Eye Clinic
-
-A modern healthcare website focused on accessibility, responsive design, and an intuitive user experience.
-
----
-
-## 💼 BeyByte
-
-Agency website presenting digital services with a clean, professional, and conversion-focused design.
-
----
-
-## 📱 Rotino App
-
-Cross-platform Flutter application built with a focus on scalability, clean architecture, and responsive UI.
+| Project | Description | Tech |
+|:--|:--|:--|
+| 🌐 **Portfolio** | Personal portfolio showcasing my projects and experience. | Next.js • Tailwind |
+| 🏥 **Edina Eye Clinic** | Modern healthcare website with premium UI/UX. | Next.js |
+| 💼 **BeyByte** | Agency website focused on conversions and branding. | React |
+| 📱 **Fitnex** | Flutter mobile application with authentication,AI bot integration and responsive UI. | Flutter |
 
 ---
 
@@ -97,9 +91,9 @@ Cross-platform Flutter application built with a focus on scalability, clean arch
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=naveed-umar&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naveed-umar&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-umar&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-umar&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -111,20 +105,36 @@ Cross-platform Flutter application built with a focus on scalability, clean arch
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 Current Focus
 
-- Advanced React Patterns
-- Next.js App Router
-- Software Architecture
-- AI-assisted Development
-- Agile Product Development
+- 🚀 Building production-ready React & Next.js applications
+- 📱 Developing scalable Flutter apps
+- 🤖 Exploring AI integrations
+- 📚 Improving software architecture skills
+- 🌍 Seeking remote software engineering opportunities
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
-🌐 Portfolio: https://naveedumar.com
+<p align="center">
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+<a href="https://naveedumar.com">
+Portfolio
+</a>
+•
+<a href="https://www.linkedin.com/in/naveed-umar-565abb27a/">
+LinkedIn
+</a>
+•
+<a href="mailto:naveedumar559@gmail.com">
+Email
+</a>
 
-📧 Email: YOUR_EMAIL@example.com
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following my GitHub journey.
+</p>
