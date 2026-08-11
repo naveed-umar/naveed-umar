@@ -95,15 +95,6 @@ Agency website showcasing services, portfolio and digital solutions.
 Flutter application featuring authentication, AI assistant integration and responsive mobile UI.
 
 ---
-## 💻 Currently Building
-
-| Project | Description | Status |
-|---------|-------------|:------:|
-| 🎨 **AI Design Audit Tool** | AI-powered website auditing platform with UI/UX analysis and actionable recommendations. | 🟢 Active |
-|🏥 **Edina Eye Clinic** | Clean business conversion website redesign, performance optimization. | 🟢 Active |
-| ⚖️ **Legal Services Platform** | Premium legal website focused on conversion, accessibility and client acquisition. | 🟢 Active |
-| 🌐 **Portfolio v2** | Next-generation portfolio with interactive case studies and modern animations. | 🚀 Improving |
----
 
 # 💻 What I'm Building
 
