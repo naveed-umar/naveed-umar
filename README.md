@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./banner.png" alt="Naveed Umar Banner" width="100%">
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;React+%7C+Next.js+%7C+Flutter+Developer;Building+AI-Powered+Digital+Products;Open+to+Junior+Remote+Opportunities"/>
 </p>
 
@@ -22,11 +18,11 @@ Software Engineer passionate about building modern web applications, cross-platf
 
 # 👨‍💻 About Me
 
-I'm currently completing my Bachelor's in Software Engineering while building production-ready applications and working on real client projects.
+I'm a Software Engineer building production-ready applications.
 
-- 🎓 Software Engineering Student (Final Year)
-- 💼 Software Engineer at **BeyByte**
-- 🌍 Open to Junior Remote Software Engineering roles
+- 🎓 Software Engineering 
+- 💼 Founder at **BeyByte**
+- 🌍 Open to Software Engineering roles
 - 🚀 Passionate about clean architecture, UI/UX and scalable products
 - 🤖 Interested in AI-powered applications and automation
 
